@@ -13,7 +13,7 @@ const load = function(id) {
             gewinnProAktie: 6.74,
             kgv: 17.32,
             eigenkapitalquote: '+27,69%',
-            ebigMarge: '+8,88%',
+            ebitMarge: '+8,88%',
             eigenkapitalrendite: '+15,65%'
         },
         {
@@ -21,7 +21,7 @@ const load = function(id) {
             gewinnProAktie: 8.84,
             kgv: 10.16,
             eigenkapitalquote: '+27,69%',
-            ebigMarge: '+8,95%',
+            ebitMarge: '+8,95%',
             eigenkapitalrendite: '+20,77%'
         },
         {
@@ -29,7 +29,7 @@ const load = function(id) {
             gewinnProAktie: 6.37,
             kgv: 14.71,
             eigenkapitalquote: '+30,04%',
-            ebigMarge: '+9,91%',
+            ebitMarge: '+9,91%',
             eigenkapitalrendite: '+17,04%'
         },
         {
@@ -37,7 +37,7 @@ const load = function(id) {
             gewinnProAktie: 5.08,
             kgv: 19.54,
             eigenkapitalquote: '+28,08%',
-            ebigMarge: '+7,49%',
+            ebitMarge: '+7,49%',
             eigenkapitalrendite: '+14,96%'
         }
     ];
