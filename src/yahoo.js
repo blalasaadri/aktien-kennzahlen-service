@@ -2,6 +2,7 @@
 
 const load = function(id) {
     return {
+        ag: 'Siemens Aktiengesellschaft',
         kursAktuell: 116.55,
         kurseHistorisch: [
             {
