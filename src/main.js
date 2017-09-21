@@ -44,6 +44,12 @@ server.route({
         reply(result)
             .code(200)
             .type('application/json');
+    },
+    config: {
+        cors: {
+            origin: [ '*' ],
+            additionalHeaders: [ 'cache-control', 'x-requested-with' ]
+        }
     }
 });
 
