@@ -11,7 +11,7 @@ const Yahoo = require('./yahoo');
 const server = new Hapi.Server();
 server.connection({
     port: process.env.PORT || 3000,
-    host: 'localhost'
+    host: '0.0.0.0'
 });
 
 server.route({
